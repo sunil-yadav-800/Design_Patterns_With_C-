@@ -1,0 +1,16 @@
+D:\POC\Design Pattern in C_Sharp\Strategy Pattern\bin\Debug\net5.0\Strategy Pattern.exe
+D:\POC\Design Pattern in C_Sharp\Strategy Pattern\bin\Debug\net5.0\Strategy Pattern.deps.json
+D:\POC\Design Pattern in C_Sharp\Strategy Pattern\bin\Debug\net5.0\Strategy Pattern.runtimeconfig.json
+D:\POC\Design Pattern in C_Sharp\Strategy Pattern\bin\Debug\net5.0\Strategy Pattern.runtimeconfig.dev.json
+D:\POC\Design Pattern in C_Sharp\Strategy Pattern\bin\Debug\net5.0\Strategy Pattern.dll
+D:\POC\Design Pattern in C_Sharp\Strategy Pattern\bin\Debug\net5.0\ref\Strategy Pattern.dll
+D:\POC\Design Pattern in C_Sharp\Strategy Pattern\bin\Debug\net5.0\Strategy Pattern.pdb
+D:\POC\Design Pattern in C_Sharp\Strategy Pattern\obj\Debug\net5.0\Strategy Pattern.csproj.AssemblyReference.cache
+D:\POC\Design Pattern in C_Sharp\Strategy Pattern\obj\Debug\net5.0\Strategy Pattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\POC\Design Pattern in C_Sharp\Strategy Pattern\obj\Debug\net5.0\Strategy Pattern.AssemblyInfoInputs.cache
+D:\POC\Design Pattern in C_Sharp\Strategy Pattern\obj\Debug\net5.0\Strategy Pattern.AssemblyInfo.cs
+D:\POC\Design Pattern in C_Sharp\Strategy Pattern\obj\Debug\net5.0\Strategy Pattern.csproj.CoreCompileInputs.cache
+D:\POC\Design Pattern in C_Sharp\Strategy Pattern\obj\Debug\net5.0\Strategy Pattern.dll
+D:\POC\Design Pattern in C_Sharp\Strategy Pattern\obj\Debug\net5.0\ref\Strategy Pattern.dll
+D:\POC\Design Pattern in C_Sharp\Strategy Pattern\obj\Debug\net5.0\Strategy Pattern.pdb
+D:\POC\Design Pattern in C_Sharp\Strategy Pattern\obj\Debug\net5.0\Strategy Pattern.genruntimeconfig.cache

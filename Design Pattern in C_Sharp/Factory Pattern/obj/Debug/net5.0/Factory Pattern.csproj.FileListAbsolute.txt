@@ -1,0 +1,16 @@
+D:\POC\Design Pattern in C_Sharp\Factory Pattern\bin\Debug\net5.0\Factory Pattern.exe
+D:\POC\Design Pattern in C_Sharp\Factory Pattern\bin\Debug\net5.0\Factory Pattern.deps.json
+D:\POC\Design Pattern in C_Sharp\Factory Pattern\bin\Debug\net5.0\Factory Pattern.runtimeconfig.json
+D:\POC\Design Pattern in C_Sharp\Factory Pattern\bin\Debug\net5.0\Factory Pattern.runtimeconfig.dev.json
+D:\POC\Design Pattern in C_Sharp\Factory Pattern\bin\Debug\net5.0\Factory Pattern.dll
+D:\POC\Design Pattern in C_Sharp\Factory Pattern\bin\Debug\net5.0\ref\Factory Pattern.dll
+D:\POC\Design Pattern in C_Sharp\Factory Pattern\bin\Debug\net5.0\Factory Pattern.pdb
+D:\POC\Design Pattern in C_Sharp\Factory Pattern\obj\Debug\net5.0\Factory Pattern.csproj.AssemblyReference.cache
+D:\POC\Design Pattern in C_Sharp\Factory Pattern\obj\Debug\net5.0\Factory Pattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\POC\Design Pattern in C_Sharp\Factory Pattern\obj\Debug\net5.0\Factory Pattern.AssemblyInfoInputs.cache
+D:\POC\Design Pattern in C_Sharp\Factory Pattern\obj\Debug\net5.0\Factory Pattern.AssemblyInfo.cs
+D:\POC\Design Pattern in C_Sharp\Factory Pattern\obj\Debug\net5.0\Factory Pattern.csproj.CoreCompileInputs.cache
+D:\POC\Design Pattern in C_Sharp\Factory Pattern\obj\Debug\net5.0\Factory Pattern.dll
+D:\POC\Design Pattern in C_Sharp\Factory Pattern\obj\Debug\net5.0\ref\Factory Pattern.dll
+D:\POC\Design Pattern in C_Sharp\Factory Pattern\obj\Debug\net5.0\Factory Pattern.pdb
+D:\POC\Design Pattern in C_Sharp\Factory Pattern\obj\Debug\net5.0\Factory Pattern.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\POC\Design Pattern in C_Sharp\Singleton Non_Thread_Safe\bin\Debug\net5.0\Singleton Non_Thread_Safe.exe
+D:\POC\Design Pattern in C_Sharp\Singleton Non_Thread_Safe\bin\Debug\net5.0\Singleton Non_Thread_Safe.deps.json
+D:\POC\Design Pattern in C_Sharp\Singleton Non_Thread_Safe\bin\Debug\net5.0\Singleton Non_Thread_Safe.runtimeconfig.json
+D:\POC\Design Pattern in C_Sharp\Singleton Non_Thread_Safe\bin\Debug\net5.0\Singleton Non_Thread_Safe.runtimeconfig.dev.json
+D:\POC\Design Pattern in C_Sharp\Singleton Non_Thread_Safe\bin\Debug\net5.0\Singleton Non_Thread_Safe.dll
+D:\POC\Design Pattern in C_Sharp\Singleton Non_Thread_Safe\bin\Debug\net5.0\ref\Singleton Non_Thread_Safe.dll
+D:\POC\Design Pattern in C_Sharp\Singleton Non_Thread_Safe\bin\Debug\net5.0\Singleton Non_Thread_Safe.pdb
+D:\POC\Design Pattern in C_Sharp\Singleton Non_Thread_Safe\obj\Debug\net5.0\Singleton Non_Thread_Safe.csproj.AssemblyReference.cache
+D:\POC\Design Pattern in C_Sharp\Singleton Non_Thread_Safe\obj\Debug\net5.0\Singleton Non_Thread_Safe.GeneratedMSBuildEditorConfig.editorconfig
+D:\POC\Design Pattern in C_Sharp\Singleton Non_Thread_Safe\obj\Debug\net5.0\Singleton Non_Thread_Safe.AssemblyInfoInputs.cache
+D:\POC\Design Pattern in C_Sharp\Singleton Non_Thread_Safe\obj\Debug\net5.0\Singleton Non_Thread_Safe.AssemblyInfo.cs
+D:\POC\Design Pattern in C_Sharp\Singleton Non_Thread_Safe\obj\Debug\net5.0\Singleton Non_Thread_Safe.csproj.CoreCompileInputs.cache
+D:\POC\Design Pattern in C_Sharp\Singleton Non_Thread_Safe\obj\Debug\net5.0\Singleton Non_Thread_Safe.dll
+D:\POC\Design Pattern in C_Sharp\Singleton Non_Thread_Safe\obj\Debug\net5.0\ref\Singleton Non_Thread_Safe.dll
+D:\POC\Design Pattern in C_Sharp\Singleton Non_Thread_Safe\obj\Debug\net5.0\Singleton Non_Thread_Safe.pdb
+D:\POC\Design Pattern in C_Sharp\Singleton Non_Thread_Safe\obj\Debug\net5.0\Singleton Non_Thread_Safe.genruntimeconfig.cache
