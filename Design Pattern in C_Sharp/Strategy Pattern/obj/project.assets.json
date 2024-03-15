@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\POC\\Design Pattern in C_Sharp\\Strategy Pattern\\Strategy Pattern.csproj",
+      "projectUniqueName": "D:\\POC\\Design Pattern in C_Sharp\\Design Pattern in C_Sharp\\Strategy Pattern\\Strategy Pattern.csproj",
       "projectName": "Strategy Pattern",
-      "projectPath": "D:\\POC\\Design Pattern in C_Sharp\\Strategy Pattern\\Strategy Pattern.csproj",
+      "projectPath": "D:\\POC\\Design Pattern in C_Sharp\\Design Pattern in C_Sharp\\Strategy Pattern\\Strategy Pattern.csproj",
       "packagesPath": "C:\\Users\\sunilkumar09\\.nuget\\packages\\",
-      "outputPath": "D:\\POC\\Design Pattern in C_Sharp\\Strategy Pattern\\obj\\",
+      "outputPath": "D:\\POC\\Design Pattern in C_Sharp\\Design Pattern in C_Sharp\\Strategy Pattern\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

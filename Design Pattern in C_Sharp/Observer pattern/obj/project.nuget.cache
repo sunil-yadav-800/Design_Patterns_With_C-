@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9aB0oQLYpFSdqPrYnI3pYn8NGgdwy0+QjECnt26sApIYjz7qEUxX2Lf6FstUNB2SO6sFPlGQP6CTf2CDdowWCg==",
+  "dgSpecHash": "7zkGO9Rj1fVY7XCo5i0pbFjYVJoC59dxFWVUe3pholcUYR9whQfZ8ZQmjI0pI3H4a8OcPoMXHiDkieJA8EiJYA==",
   "success": true,
-  "projectFilePath": "D:\\POC\\Design Pattern in C_Sharp\\Observer pattern\\Observer pattern.csproj",
+  "projectFilePath": "D:\\POC\\Design Pattern in C_Sharp\\Design Pattern in C_Sharp\\Observer pattern\\Observer pattern.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

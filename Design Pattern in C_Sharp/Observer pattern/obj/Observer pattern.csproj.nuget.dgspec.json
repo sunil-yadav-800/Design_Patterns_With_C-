@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\POC\\Design Pattern in C_Sharp\\Observer pattern\\Observer pattern.csproj": {}
+    "D:\\POC\\Design Pattern in C_Sharp\\Design Pattern in C_Sharp\\Observer pattern\\Observer pattern.csproj": {}
   },
   "projects": {
-    "D:\\POC\\Design Pattern in C_Sharp\\Observer pattern\\Observer pattern.csproj": {
+    "D:\\POC\\Design Pattern in C_Sharp\\Design Pattern in C_Sharp\\Observer pattern\\Observer pattern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\POC\\Design Pattern in C_Sharp\\Observer pattern\\Observer pattern.csproj",
+        "projectUniqueName": "D:\\POC\\Design Pattern in C_Sharp\\Design Pattern in C_Sharp\\Observer pattern\\Observer pattern.csproj",
         "projectName": "Observer pattern",
-        "projectPath": "D:\\POC\\Design Pattern in C_Sharp\\Observer pattern\\Observer pattern.csproj",
+        "projectPath": "D:\\POC\\Design Pattern in C_Sharp\\Design Pattern in C_Sharp\\Observer pattern\\Observer pattern.csproj",
         "packagesPath": "C:\\Users\\sunilkumar09\\.nuget\\packages\\",
-        "outputPath": "D:\\POC\\Design Pattern in C_Sharp\\Observer pattern\\obj\\",
+        "outputPath": "D:\\POC\\Design Pattern in C_Sharp\\Design Pattern in C_Sharp\\Observer pattern\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

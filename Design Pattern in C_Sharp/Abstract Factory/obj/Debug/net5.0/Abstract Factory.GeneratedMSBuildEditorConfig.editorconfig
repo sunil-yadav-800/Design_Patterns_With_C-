@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = Abstract_Factory
-build_property.ProjectDir = D:\POC\Design Pattern in C_Sharp\Abstract Factory\
+build_property.ProjectDir = D:\POC\Design Pattern in C_Sharp\Design Pattern in C_Sharp\Abstract Factory\

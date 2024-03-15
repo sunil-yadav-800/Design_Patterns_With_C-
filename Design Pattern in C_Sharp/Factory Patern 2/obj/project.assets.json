@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\POC\\Design Pattern in C_Sharp\\Factory Patern 2\\Factory Patern 2.csproj",
+      "projectUniqueName": "D:\\POC\\Design Pattern in C_Sharp\\Design Pattern in C_Sharp\\Factory Patern 2\\Factory Patern 2.csproj",
       "projectName": "Factory Patern 2",
-      "projectPath": "D:\\POC\\Design Pattern in C_Sharp\\Factory Patern 2\\Factory Patern 2.csproj",
+      "projectPath": "D:\\POC\\Design Pattern in C_Sharp\\Design Pattern in C_Sharp\\Factory Patern 2\\Factory Patern 2.csproj",
       "packagesPath": "C:\\Users\\sunilkumar09\\.nuget\\packages\\",
-      "outputPath": "D:\\POC\\Design Pattern in C_Sharp\\Factory Patern 2\\obj\\",
+      "outputPath": "D:\\POC\\Design Pattern in C_Sharp\\Design Pattern in C_Sharp\\Factory Patern 2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

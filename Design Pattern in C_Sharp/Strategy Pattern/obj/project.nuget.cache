@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "J8UYLZavSZ60hOtyFns63v5g+5Nxx9GOA3t6lt1UqYlHqB5F6E3bzGlIBVU1FZdn0RwhxTA4mG05DXbSXSeNtA==",
+  "dgSpecHash": "TIB+PNNHMOkGzGvDeb6dMaKeF5ZR4hfjD4O6wlppGcTuKulctMF9z4sbu8tkJOevaVph1fohPQQfcms8OajLag==",
   "success": true,
-  "projectFilePath": "D:\\POC\\Design Pattern in C_Sharp\\Strategy Pattern\\Strategy Pattern.csproj",
+  "projectFilePath": "D:\\POC\\Design Pattern in C_Sharp\\Design Pattern in C_Sharp\\Strategy Pattern\\Strategy Pattern.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

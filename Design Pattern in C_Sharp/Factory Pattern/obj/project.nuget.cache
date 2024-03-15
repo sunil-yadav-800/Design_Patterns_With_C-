@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jU3iLk4S2YwQos7R0GE5cwYE+Ncaweo2KUDQ8uij5mdCQPOqLjKF4ie5bjdwVkQS6X1LMT1CltEtyWbbfoefXA==",
+  "dgSpecHash": "r9pcVTWaMaWgoBICljJ03uMUAUpx/x+sSuhyDSUZ/c5QUMP2Q0a1ScqNJtd22edTq5qcrFmbRZ85rVTb70Yy7A==",
   "success": true,
-  "projectFilePath": "D:\\POC\\Design Pattern in C_Sharp\\Factory Pattern\\Factory Pattern.csproj",
+  "projectFilePath": "D:\\POC\\Design Pattern in C_Sharp\\Design Pattern in C_Sharp\\Factory Pattern\\Factory Pattern.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

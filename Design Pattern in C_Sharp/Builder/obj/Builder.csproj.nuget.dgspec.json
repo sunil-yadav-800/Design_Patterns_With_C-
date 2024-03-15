@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\POC\\Design Pattern in C_Sharp\\Builder\\Builder.csproj": {}
+    "D:\\POC\\Design Pattern in C_Sharp\\Design Pattern in C_Sharp\\Builder\\Builder.csproj": {}
   },
   "projects": {
-    "D:\\POC\\Design Pattern in C_Sharp\\Builder\\Builder.csproj": {
+    "D:\\POC\\Design Pattern in C_Sharp\\Design Pattern in C_Sharp\\Builder\\Builder.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\POC\\Design Pattern in C_Sharp\\Builder\\Builder.csproj",
+        "projectUniqueName": "D:\\POC\\Design Pattern in C_Sharp\\Design Pattern in C_Sharp\\Builder\\Builder.csproj",
         "projectName": "Builder",
-        "projectPath": "D:\\POC\\Design Pattern in C_Sharp\\Builder\\Builder.csproj",
+        "projectPath": "D:\\POC\\Design Pattern in C_Sharp\\Design Pattern in C_Sharp\\Builder\\Builder.csproj",
         "packagesPath": "C:\\Users\\sunilkumar09\\.nuget\\packages\\",
-        "outputPath": "D:\\POC\\Design Pattern in C_Sharp\\Builder\\obj\\",
+        "outputPath": "D:\\POC\\Design Pattern in C_Sharp\\Design Pattern in C_Sharp\\Builder\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

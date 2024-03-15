@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iFgDSyyMFlxH08WpCA7Bp9jc9ipOFLToMSXNEXX0054HCVb/e3qUNpxU6/ZUWPIytCLB2KivMY5bpO3FhD7ETw==",
+  "dgSpecHash": "P4CkBcvKZ4VsIYwihZq5dtPJ5NXeCpT5548ECyrLJKrRyDIHHLKIDMCJ6pRybpVVHQpB0BNO3D2K9f6481z8Wg==",
   "success": true,
-  "projectFilePath": "D:\\POC\\Design Pattern in C_Sharp\\Singleton Non_Thread_Safe\\Singleton Non_Thread_Safe.csproj",
+  "projectFilePath": "D:\\POC\\Design Pattern in C_Sharp\\Design Pattern in C_Sharp\\Singleton Non_Thread_Safe\\Singleton Non_Thread_Safe.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

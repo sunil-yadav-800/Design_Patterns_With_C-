@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "avqN3BC7vLFvitEb9TONmhIAi9jJ0aO9Z1v+e6cJ93Yf7jgj2y7eX8uBYzwMF+iQbFeqz0W3EZhfw8kqol70NQ==",
+  "dgSpecHash": "b+6M8rxiDAcKKzYiVVI2NSrb8ztFMV7754IUUBJE4L3eAqQN4vKx60TqX+1OwLmwuKrvvl4ZrUaetUKiFvnVIg==",
   "success": true,
-  "projectFilePath": "D:\\POC\\Design Pattern in C_Sharp\\Adapter\\Adapter.csproj",
+  "projectFilePath": "D:\\POC\\Design Pattern in C_Sharp\\Design Pattern in C_Sharp\\Adapter\\Adapter.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
