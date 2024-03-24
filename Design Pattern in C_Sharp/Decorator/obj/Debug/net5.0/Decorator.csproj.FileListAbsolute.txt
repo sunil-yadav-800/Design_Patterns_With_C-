@@ -1,0 +1,15 @@
+D:\POC\Design Pattern in C_Sharp\Design Pattern in C_Sharp\Decorator\bin\Debug\net5.0\Decorator.exe
+D:\POC\Design Pattern in C_Sharp\Design Pattern in C_Sharp\Decorator\bin\Debug\net5.0\Decorator.deps.json
+D:\POC\Design Pattern in C_Sharp\Design Pattern in C_Sharp\Decorator\bin\Debug\net5.0\Decorator.runtimeconfig.json
+D:\POC\Design Pattern in C_Sharp\Design Pattern in C_Sharp\Decorator\bin\Debug\net5.0\Decorator.runtimeconfig.dev.json
+D:\POC\Design Pattern in C_Sharp\Design Pattern in C_Sharp\Decorator\bin\Debug\net5.0\Decorator.dll
+D:\POC\Design Pattern in C_Sharp\Design Pattern in C_Sharp\Decorator\bin\Debug\net5.0\ref\Decorator.dll
+D:\POC\Design Pattern in C_Sharp\Design Pattern in C_Sharp\Decorator\bin\Debug\net5.0\Decorator.pdb
+D:\POC\Design Pattern in C_Sharp\Design Pattern in C_Sharp\Decorator\obj\Debug\net5.0\Decorator.GeneratedMSBuildEditorConfig.editorconfig
+D:\POC\Design Pattern in C_Sharp\Design Pattern in C_Sharp\Decorator\obj\Debug\net5.0\Decorator.AssemblyInfoInputs.cache
+D:\POC\Design Pattern in C_Sharp\Design Pattern in C_Sharp\Decorator\obj\Debug\net5.0\Decorator.AssemblyInfo.cs
+D:\POC\Design Pattern in C_Sharp\Design Pattern in C_Sharp\Decorator\obj\Debug\net5.0\Decorator.csproj.CoreCompileInputs.cache
+D:\POC\Design Pattern in C_Sharp\Design Pattern in C_Sharp\Decorator\obj\Debug\net5.0\Decorator.dll
+D:\POC\Design Pattern in C_Sharp\Design Pattern in C_Sharp\Decorator\obj\Debug\net5.0\ref\Decorator.dll
+D:\POC\Design Pattern in C_Sharp\Design Pattern in C_Sharp\Decorator\obj\Debug\net5.0\Decorator.pdb
+D:\POC\Design Pattern in C_Sharp\Design Pattern in C_Sharp\Decorator\obj\Debug\net5.0\Decorator.genruntimeconfig.cache

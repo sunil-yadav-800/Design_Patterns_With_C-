@@ -17,11 +17,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Builder", "Builder\Builder.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Adapter", "Adapter\Adapter.csproj", "{09475909-029C-4DB4-8D58-9578B8C87370}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strategy Pattern", "Strategy Pattern\Strategy Pattern.csproj", "{FD707827-FC7B-4364-A6EE-86FB30987348}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Strategy Pattern", "Strategy Pattern\Strategy Pattern.csproj", "{FD707827-FC7B-4364-A6EE-86FB30987348}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strategy pattern 2", "Strategy pattern 2\Strategy pattern 2.csproj", "{4DB69094-1387-44D6-AF50-EB3315A349BB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Strategy pattern 2", "Strategy pattern 2\Strategy pattern 2.csproj", "{4DB69094-1387-44D6-AF50-EB3315A349BB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Observer pattern", "Observer pattern\Observer pattern.csproj", "{DF5E0B29-2668-4C72-ACDF-18F2A3B48887}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Observer pattern", "Observer pattern\Observer pattern.csproj", "{DF5E0B29-2668-4C72-ACDF-18F2A3B48887}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bridge", "Bridge\Bridge.csproj", "{7EDF1B90-551A-4BCF-95A9-B59E9E001459}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorator", "Decorator\Decorator.csproj", "{88F1C944-1075-49FC-9802-C875C61902CC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +73,14 @@ Global
 		{DF5E0B29-2668-4C72-ACDF-18F2A3B48887}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DF5E0B29-2668-4C72-ACDF-18F2A3B48887}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DF5E0B29-2668-4C72-ACDF-18F2A3B48887}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EDF1B90-551A-4BCF-95A9-B59E9E001459}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EDF1B90-551A-4BCF-95A9-B59E9E001459}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EDF1B90-551A-4BCF-95A9-B59E9E001459}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EDF1B90-551A-4BCF-95A9-B59E9E001459}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88F1C944-1075-49FC-9802-C875C61902CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88F1C944-1075-49FC-9802-C875C61902CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88F1C944-1075-49FC-9802-C875C61902CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88F1C944-1075-49FC-9802-C875C61902CC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

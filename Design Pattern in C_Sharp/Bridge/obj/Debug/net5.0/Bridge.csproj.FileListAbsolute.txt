@@ -1,0 +1,15 @@
+D:\POC\Design Pattern in C_Sharp\Design Pattern in C_Sharp\Bridge\bin\Debug\net5.0\Bridge.exe
+D:\POC\Design Pattern in C_Sharp\Design Pattern in C_Sharp\Bridge\bin\Debug\net5.0\Bridge.deps.json
+D:\POC\Design Pattern in C_Sharp\Design Pattern in C_Sharp\Bridge\bin\Debug\net5.0\Bridge.runtimeconfig.json
+D:\POC\Design Pattern in C_Sharp\Design Pattern in C_Sharp\Bridge\bin\Debug\net5.0\Bridge.runtimeconfig.dev.json
+D:\POC\Design Pattern in C_Sharp\Design Pattern in C_Sharp\Bridge\bin\Debug\net5.0\Bridge.dll
+D:\POC\Design Pattern in C_Sharp\Design Pattern in C_Sharp\Bridge\bin\Debug\net5.0\ref\Bridge.dll
+D:\POC\Design Pattern in C_Sharp\Design Pattern in C_Sharp\Bridge\bin\Debug\net5.0\Bridge.pdb
+D:\POC\Design Pattern in C_Sharp\Design Pattern in C_Sharp\Bridge\obj\Debug\net5.0\Bridge.GeneratedMSBuildEditorConfig.editorconfig
+D:\POC\Design Pattern in C_Sharp\Design Pattern in C_Sharp\Bridge\obj\Debug\net5.0\Bridge.AssemblyInfoInputs.cache
+D:\POC\Design Pattern in C_Sharp\Design Pattern in C_Sharp\Bridge\obj\Debug\net5.0\Bridge.AssemblyInfo.cs
+D:\POC\Design Pattern in C_Sharp\Design Pattern in C_Sharp\Bridge\obj\Debug\net5.0\Bridge.csproj.CoreCompileInputs.cache
+D:\POC\Design Pattern in C_Sharp\Design Pattern in C_Sharp\Bridge\obj\Debug\net5.0\Bridge.dll
+D:\POC\Design Pattern in C_Sharp\Design Pattern in C_Sharp\Bridge\obj\Debug\net5.0\ref\Bridge.dll
+D:\POC\Design Pattern in C_Sharp\Design Pattern in C_Sharp\Bridge\obj\Debug\net5.0\Bridge.pdb
+D:\POC\Design Pattern in C_Sharp\Design Pattern in C_Sharp\Bridge\obj\Debug\net5.0\Bridge.genruntimeconfig.cache
